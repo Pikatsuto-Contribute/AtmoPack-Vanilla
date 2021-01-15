@@ -1,4 +1,4 @@
-# Pack Atmosphere Vailla
+# Pack Atmosphere Vanilla
 Pack Atmosphere + Pre-configured Hekate + Sigpatch
 Without bootlogo, source or homebrew modification
 
