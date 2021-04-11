@@ -9,7 +9,7 @@ Normalement DayBreak est fourni avec tous les AMS à partir du 0.14.0, vous le t
 S'il n'y est pas , téléchargez-le ici et placez le dans votre carte SD dans le dossier switch : [DayBreak.nro](https://cdn.discordapp.com/attachments/589200312867225643/758779983270510602/daybreak.nro)
 
 - Commencez par télécharger la version de firmware que vous souhaitez avoir ici : [darthsternie](https://darthsternie.net/switch-firmwares/)
-- - Créez un dossier à la racine de votre carte SD que vous pouvez nommer comme vous voulez.
+- Créez un dossier à la racine de votre carte SD que vous pouvez nommer comme vous voulez.
 - Extrayez-y l'archive que vous venez de télécharger.
 - Ejectez à présent la carte mémoire de votre PC, et insérez-la dans votre console, en bootant sur votre CFW. 
 - Allez dans le Homebrew Menu et lancez Daybreak.
