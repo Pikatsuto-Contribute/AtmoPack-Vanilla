@@ -102,14 +102,6 @@ V. Vérifier si dans l'onglet__ emuMMC Info & Selection__ il est bien écrit ✅
 
 Vous n'avez plus qu'a faire Launch puis CFW - Atmosphère pour que la console
 
-__La suite du guide prochainement__
-
-- [ ] Tutoriel sur l'installation des jeux
-- [ ] Tutoriel sur l'utilisation des homebrews (notamment tinfoil)
-- [ ] Tutoriel sur l'utilisation de thème
-- [ ] Tutoriel sur l'installation d'Android 10
-- [ ] Traduction Anglaise 
-
 
 
 
