@@ -20,6 +20,7 @@ __Méthode gratuit :__
 - Ensuite retournez sur l'onglet "payload", copié les fichier du pack à la racine de la Micro SD 
 - Une fois fait la console doit être éteinte et branchée sur un port USB de votre pc
 - Le but est simple la méthode consiste à enlever le joycon droit de votre switch vous y apercevrez des petites broches métalliques appelés "PIN"
+
 ![unknown](https://user-images.githubusercontent.com/50277488/118039934-2e09c280-b371-11eb-907e-9dec4d27a2d2.png)
 - Il vous faudra à l'aide d'un objet métallique, type trombone ou autre, appuyer sur le premier et le dernier PIN délicatement en même temps tout en restant appuyé sur le bouton volume + et enfin POWER
 - Si vous avez réussi la manipulation le voyant rouge sur Tegra passera au vert et il sera écrit dans la console du logiciel le message suivant : "RCM Device detected"
