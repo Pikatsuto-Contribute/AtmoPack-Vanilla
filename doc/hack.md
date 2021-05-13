@@ -45,8 +45,6 @@ Elle peut être stockée de 2 manières possibles.
 La méthode la plus fiable et la méthode par __Partition__
 ❕ Il est nécessaire d'avoir une SD de minimum 64Go et de 128 à 256Go recommandé.
 1️⃣ Créer la partition
-I. - Télécharger le pack tout prêt : __https://github.com/THZoria/AtmoPack-Vanilla/releases/download/1.0.2/Pack.Atmosphere.0.18.0.Hekate.5.5.4.Sigpatch.FW.11.0.1.zip__
-- Dézipper le tout, et copié l’entièreté des dossiers et fichier a la racine de la Micro SD
 - Passer en mode RCM et injecter le payload Hekate
 
 ![01](https://user-images.githubusercontent.com/50277488/118040566-fc452b80-b371-11eb-936a-7c5511b752a2.png)
