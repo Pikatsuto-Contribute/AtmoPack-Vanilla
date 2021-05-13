@@ -1,5 +1,5 @@
 
-Ce tutoriel sera disponible en français et en anglais
+Ce tutoriel sera disponible en français et en anglais dans le futur, voir l'évolution [Steps of progress](https://github.com/THZoria/AtmoPack-Vanilla/issues/2)
 
 __Formater une SD en mode OFW Nintendo Switch__
 
