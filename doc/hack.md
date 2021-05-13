@@ -44,6 +44,7 @@ Elle peut être stockée de 2 manières possibles.
 - Par __Partition__
 La méthode la plus fiable et la méthode par __Partition__
 ❕ Il est nécessaire d'avoir une SD de minimum 64Go et de 128 à 256Go recommandé.
+
 1️⃣ Créer la partition
 - Passer en mode RCM et injecter le payload Hekate
 
