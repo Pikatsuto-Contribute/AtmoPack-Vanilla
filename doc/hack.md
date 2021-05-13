@@ -1,4 +1,3 @@
-__Lancer ça switch en mode RCM__
 
 Ce tutoriel sera disponible en français et en anglais
 
