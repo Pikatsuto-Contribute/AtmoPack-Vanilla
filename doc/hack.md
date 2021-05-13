@@ -95,6 +95,7 @@ IV. La création de l'emuNAND prend entre 10 à 30 minute sont la rapidité de l
 ![12](https://user-images.githubusercontent.com/50277488/118041356-fb60c980-b372-11eb-8c85-8b8d4e471031.png)
 
 V. Vérifier si dans l'onglet__ emuMMC Info & Selection__ il est bien écrit ✅ __Enabled!__
+
 ❕ Si ce n'est pas le cas, appuyer sur __Change emuMMC__ puis __RAW1__
 
 ![13](https://user-images.githubusercontent.com/50277488/118041385-03b90480-b373-11eb-8746-f6c4f712e8bd.png)
