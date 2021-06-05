@@ -27,6 +27,7 @@ Thanks to the developer for their work
 - Mrdude2478 (TinWoo) : https://github.com/mrdude2478/TinWoo/
 - XorTroll (Goldleaf) : https://github.com/XorTroll/Goldleaf
 - Meganukebmp (Switch_90DNS_tester) : https://github.com/meganukebmp/Switch_90DNS_tester
+- PoloNX (sigpatch-downloader) : https://github.com/PoloNX/sigpatch-downloader
 - Sigpatch : https://github.com/THZoria/patches
 
 Special thanks to SciresM and all the Reswitched team who made this possible ^^
