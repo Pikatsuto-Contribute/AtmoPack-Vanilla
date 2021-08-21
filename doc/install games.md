@@ -17,10 +17,12 @@ Ensuite vous allez avoir besoin de la dernière release de ns-usbloader :
 Installation sur console
 
 Ensuite il vous faudra télécharger cette archive et l'extraire à la racine de la carte SD 
+
 📜 [Tinwoo](https://bit.ly/34HyMpO)
 Installation d'un jeu
 
  Nous allons effectuer un premier test en installant le nsp de TinWoo. De plus, vous en aurez besoin pour vos futures installations.
+
 
 📜 [TinWoo Forwarder](https://cdn.discordapp.com/attachments/660558713047875604/849721105220370492/TinWoo_0579379B12970000.nsp)
  
