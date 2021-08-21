@@ -8,6 +8,7 @@ Installation sur PC  💻
 Premièrement vous aurez besoin de java donc installez le si ce n'est pas déjà fait [Java]( https://www.java.com/fr/). 
 Ensuite vous allez avoir besoin de la dernière release de ns-usbloader : 
 📜 [ns-usbloader](https://github.com/developersu/ns-usbloader/releases/latest)
+
 (legacy pour Mac, normal pour Windows)
 ⭕ Ouvrer ensuite les paramètres en appuyant sur l'icône de l'engrenage à gauche
 ✅ Autoriser la sélection de fichiers XCI/NSZ/XCZ pour Tinfoil , ensuite cliquez sur "Download and Install drivers" pour installer les drivers requis
