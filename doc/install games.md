@@ -7,7 +7,7 @@ Installation sur PC  💻
 
 Premièrement vous aurez besoin de java donc installez le si ce n'est pas déjà fait [Java]( https://www.java.com/fr/). 
 Ensuite vous allez avoir besoin de la dernière release de ns-usbloader : 
-📜 [ns-usbloader](https://github.com/developersu/ns-usbloader/releases/latest)
+[📜 ns-usbloader](https://github.com/developersu/ns-usbloader/releases/latest)
 
 (legacy pour Mac, normal pour Windows)
 
@@ -18,13 +18,13 @@ Installation sur console
 
 Ensuite il vous faudra télécharger cette archive et l'extraire à la racine de la carte SD 
 
-📜 [Tinwoo](https://bit.ly/34HyMpO)
+[📜 Tinwoo](https://bit.ly/34HyMpO)
 Installation d'un jeu
 
  Nous allons effectuer un premier test en installant le nsp de TinWoo. De plus, vous en aurez besoin pour vos futures installations.
 
 
-📜 [TinWoo Forwarder](https://cdn.discordapp.com/attachments/660558713047875604/849721105220370492/TinWoo_0579379B12970000.nsp)
+[📜 TinWoo Forwarder](https://cdn.discordapp.com/attachments/660558713047875604/849721105220370492/TinWoo_0579379B12970000.nsp)
  
 Sur votre console ouvrez la galerie d'image et allez sur le homebrew TinWoo. Branchez votre console à votre ordinateur via un câble USB (qui transfert les données) puis sélectionnez "Installer à partir d'un périphérique USB". 
 Sur le logiciel NS-USBloader cliquez sur "Selectionner les fichiers .NSP" ouvrez ensuite l'emplacement du fichier TinWoo_0579379B12970000.nsp téléchargé précédemment. Sélectionnez les fichiers à installer (case à cocher) et appuyez sur l'icône en bas à droite "Envoyer vers NS". Ils apparaîtront ensuite sur l'écran de votre Nintendo Switch.
