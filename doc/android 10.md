@@ -18,7 +18,9 @@ __II. Préparation de la SD :__
 - Décompressé le contenue de l'archive `icosa-tablet-20210510-rel.zip`
 - Copié les dossier bootloader et switchroot a la racine de la SD, de même pour l'archive lineage-17.1-20210205-UNOFFICIAL-foster_tab-signed.zip
 - Télécharger les [GAPPS](https://altushost-swe.dl.sourceforge.net/project/opengapps/arm64/20210206/open_gapps-arm64-10.0-nano-20210206.zip)
+
 ⚠️ Si les liens ont des soucis / down, dite le moi dans #hack_switch et je le corrigerais
+
 - Copié l'archive `open_gapps-arm64-10.0-nano-20210206` a la racine de la SD
 __III. Installation :__
 - Démarrer votre Nintendo Switch sur `Hekate` et aller dans l'onglet `"tools"`.
